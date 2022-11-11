@@ -1,0 +1,8 @@
+2022-10-20 17:48:31,571 - 14 - INFO - Se paso a minuscula correctamente: Frutilla--->frutilla
+2022-10-20 17:48:31,573 - 14 - INFO - Se paso a minuscula correctamente: Melón--->melón
+2022-10-20 17:48:31,573 - 14 - INFO - Se paso a minuscula correctamente: PERA--->pera
+2022-10-20 17:48:31,574 - 16 - ERROR - 99.6 No es string
+2022-10-20 17:48:31,574 - 14 - INFO - Se paso a minuscula correctamente: NaranJA--->naranja
+2022-10-20 17:48:31,574 - 14 - INFO - Se paso a minuscula correctamente: mORa--->mora
+2022-10-20 17:48:31,574 - 14 - INFO - Se paso a minuscula correctamente: NisPERo--->nispero
+2022-10-20 17:48:31,574 - 16 - ERROR - 99 No es string
